@@ -23,7 +23,7 @@ Selain itu, proyek ini juga **mengoptimalkan keberadaan AI**, di mana AI-nya bis
 Sebenernya ide awal muncul dari hal yang sederhana — banyak orang (terutama pelajar atau mahasiswa) yang masih repot buka banyak tab cuma buat ngitung hal-hal berbeda: kadang pakai kalkulator online, kadang Excel, kadang nyari rumus di Google.
 Jadi daripada nyebar ke mana-mana, aku bikin satu platform yang bisa jadi **“pusat hitung universal”** — satu tempat buat semua jenis perhitungan.  
 Dari perhitungan dasar kayak aritmatika dan trigonometri, sampai yang agak advance kayak kalkulus, statistik, dan keuangan modern.
-Meskipun aku pribadi lebih tertarik ke dunia **finance makro-mikro dan ekonomi global**, proyek ini tetap aku kerjain sebagai bentuk eksperimen dan pembuktian konsep: bahwa AI bisa bantu menyederhanakan cara kita berinteraksi dengan perhitungan kompleks tanpa harus paham coding atau matematika tingkat tinggi.
+Meskipun saya pribadi lebih tertarik ke dunia **finance makro-mikro dan ekonomi global**, proyek ini tetap saya kerjakan sebagai bentuk eksperimen dan pembuktian konsep: bahwa AI bisa bantu menyederhanakan cara kita berinteraksi dengan perhitungan kompleks tanpa harus paham coding atau matematika tingkat tinggi. Dan saya tidak berniat untuk
 ## 🎯 Manfaat
 - Membantu pelajar atau mahasiswa ngerjain soal hitungan tanpa pindah-pindah aplikasi.  
 - Bikin perhitungan cepat buat profesional di bidang sains, teknik, atau bisnis.  
