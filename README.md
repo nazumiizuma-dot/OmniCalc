@@ -23,10 +23,13 @@ Selain itu, proyek ini juga **mengoptimalkan keberadaan AI**, di mana AI-nya bis
 Sebenernya ide awal muncul dari hal yang sederhana — banyak orang (terutama pelajar atau mahasiswa) yang masih repot buka banyak tab cuma buat ngitung hal-hal berbeda: kadang pakai kalkulator online, kadang Excel, kadang nyari rumus di Google.
 Jadi daripada nyebar ke mana-mana, aku bikin satu platform yang bisa jadi **“pusat hitung universal”** — satu tempat buat semua jenis perhitungan.  
 Dari perhitungan dasar kayak aritmatika dan trigonometri, sampai yang agak advance kayak kalkulus, statistik, dan keuangan modern.
-Meskipun saya pribadi lebih tertarik ke dunia **finance makro-mikro dan ekonomi global**, proyek ini tetap saya kerjakan sebagai bentuk eksperimen dan pembuktian konsep: bahwa AI bisa bantu menyederhanakan cara kita berinteraksi dengan perhitungan kompleks tanpa harus paham coding atau matematika tingkat tinggi. Dan saya tidak berniat untuk
+Meskipun saya pribadi lebih tertarik ke dunia **finance makro-mikro dan ekonomi global**, proyek ini tetap saya kerjakan sebagai bentuk eksperimen dan pembuktian konsep: bahwa AI bisa bantu menyederhanakan cara kita berinteraksi dengan perhitungan kompleks tanpa harus paham coding atau matematika tingkat tinggi.
 ## 🎯 Manfaat
 - Membantu pelajar atau mahasiswa ngerjain soal hitungan tanpa pindah-pindah aplikasi.  
 - Bikin perhitungan cepat buat profesional di bidang sains, teknik, atau bisnis.  
 - Memperkenalkan integrasi AI di aplikasi sederhana berbasis web.  
 - Bisa dikembangkan lagi jadi platform edukasi interaktif berbasis AI di masa depan.
 - Segini aja karena aku malas dan benci coding karena gak berguna di hidupku, see you, if we meet again 👋
+
+## 👤Dari Saya sendiri
+saya sebenarnya tidak berniat melanjutkan atau mengembangkan projek saya karena minat saya ada di bidang finance micro macro ekonomi, dan saya menggunakan Ai untuk membantu saya membuat projek ini, dan sekali lagi minat saya hanya di dunia ekonomi global, and i hate coding because it just wastes my time
